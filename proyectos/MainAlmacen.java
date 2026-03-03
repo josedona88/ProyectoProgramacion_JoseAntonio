@@ -10,4 +10,6 @@ public static void main(String[] args) {
     Producto p2 = new Producto("XXX-9999", "Teclado", 20);
   
       System.out.println(p1);
-   
+      System.out.println(p2);
+}
+}
